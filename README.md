@@ -5,7 +5,7 @@ The algorithms included are
 2) Bellmann-Ford algorithm 
 3) Breadth-First Search
 
-Each of these is combined into a single .py file.
+Each of these is combined into a single Dijkstra.py file.
 The visualisation is done using PyGame; a small PyGame window allows the user to choose the intial point and the target point in a grid of cells.
 The user can also create a wall (cells which are exluded from the grid). The path-finding algorithm shall find the shortest path (if it exists) from the initial to the target cell, finding a way around the wall.
 
